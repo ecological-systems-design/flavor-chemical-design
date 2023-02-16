@@ -1,4 +1,4 @@
-# Data-driven elucidation of flavor science
+# Data-driven elucidation of flavor chemistry
 
 Datasets generated from the review paper, Data-driven elucidation of flavor molecules: Current status and future perspectives (under review)
 
