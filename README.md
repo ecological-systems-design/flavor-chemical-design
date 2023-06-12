@@ -1,6 +1,7 @@
 # Data-driven elucidation of flavor chemistry
 
-Datasets generated from the review paper, Data-driven elucidation of flavor chemistry: Current status and future perspectives (under review)
+Datasets generated from the review paper, Data-Driven Elucidation of Flavor Chemistry, https://doi.org/10.1021/acs.jafc.3c00909
+
 
 To facilitate further data reuse, we collected 65,417 data records, containing the molecule names, CAS registry numbers, SMILES, and flavor descriptions, from publicaly available databases. After removing redundancy and molecules with amphibolous description (e.g., sweet-like and non-sweet), we finally collected 8,982 molecules with known taste and 5,046 with known aroma. 
 
